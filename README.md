@@ -9,7 +9,7 @@
 
 ## Informations
 
-### A windows will be relaying the video from the webcam source
+### A window will be relaying the video from the webcam source
 
 ### The Date and live time will be in the bottom right
 

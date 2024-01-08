@@ -2,9 +2,9 @@
 
 ### Note: Tested with Ubuntu 20.04 and Python 3.8
 
-### Step 1: pip install opencv-python
+### Step 1: ```pip install opencv-python```
 
-### Step 2: python3 relay.py
+### Step 2: ```python3 relay.py```
 
 
 ## Informations
